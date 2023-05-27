@@ -7,7 +7,8 @@
 
 ### Preview:
 
-![Preview](space-invaders-compressed.gif)
+<img src="space-invaders-compressed.gif" alt="Descrição opcional" style="max-width: 300px;" />
+
 
 
 
