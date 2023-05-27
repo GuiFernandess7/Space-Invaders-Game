@@ -1,5 +1,5 @@
 # Space Invaders Game
- Jogo do Space Invaders utilizando pygame
+ Jogo do Space Invaders utilizando a biblioteca pygame
  
 ### Requirements:
 
