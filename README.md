@@ -3,9 +3,7 @@
  
 ### Requirements:
 
-```
-pip install pygame
-```
+```pip install pygame```
 
 ### Preview:
 
