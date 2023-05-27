@@ -10,7 +10,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 600))
 
 # Background
-background = pygame.image.load('Game/Img/background2.0.jpg')
+background = pygame.image.load('Game/Img/background2_0_3.jpg')
 
 pygame.display.set_caption('Space Invaders')
 icon = pygame.image.load('Game/Img/spaceship.png')
